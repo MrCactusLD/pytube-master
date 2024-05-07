@@ -8,10 +8,11 @@
 	<a href="https://pypi.org/project/pytube/"><img src="https://img.shields.io/pypi/v/pytube?style=flat-square" /></a>
   </p>
 </div>
-# WARNING
-# THIS IS AN EDITED VERSION OF PYTUBE WITH FEW FIXES
+
+# WARNING!!  THIS IS AN EDITED VERSION OF PYTUBE WITH FEW FIXES, 
 In no way shape or form, do I own this code.
-This is repository is simply for personal use for easier setup.
+\nThis repository is simply for personal use for easier setup.
+\nIf you want to use this repository, use at your own risk
 
 ### Actively soliciting contributors!
 
