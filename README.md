@@ -22,7 +22,7 @@ I kept the original readme to reference the original creators.
 
 python -m pip install git+https://github.com/MrCactusLD/pytube-master
 
-$${\color{red}Everything after this point in readme is untouched}$$
+# $${\color{red}Everything after this point in readme is untouched}$$
 
 ### Actively soliciting contributors!
 
