@@ -14,7 +14,15 @@ In no way shape or form, do I own this code.
 
 This repository is simply for personal use for easier setup.
 
-If you want to use this repository, use at your own risk
+If you want to use this repository, use at your own risk.
+
+I kept the original readme to reference the original creators.
+
+# Edited way of installing
+
+python -m pip install git+https://github.com/MrCactusLD/pytube-master
+
+$${\color{red}Everything after this point in readme is untouched}$$
 
 ### Actively soliciting contributors!
 
