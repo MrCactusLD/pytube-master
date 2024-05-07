@@ -9,7 +9,7 @@
   </p>
 </div>
 
-# WARNING!!  THIS IS AN EDITED VERSION OF PYTUBE WITH FEW FIXES, 
+# $${\color{red}WARNING}$$ THIS IS AN EDITED VERSION OF PYTUBE WITH FEW FIXES, 
 In no way shape or form, do I own this code.
 
 This repository is simply for personal use for easier setup.
