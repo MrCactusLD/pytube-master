@@ -11,8 +11,10 @@
 
 # WARNING!!  THIS IS AN EDITED VERSION OF PYTUBE WITH FEW FIXES, 
 In no way shape or form, do I own this code.
-\nThis repository is simply for personal use for easier setup.
-\nIf you want to use this repository, use at your own risk
+
+This repository is simply for personal use for easier setup.
+
+If you want to use this repository, use at your own risk
 
 ### Actively soliciting contributors!
 
