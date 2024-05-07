@@ -9,6 +9,10 @@
   </p>
 </div>
 
+### THIS IS AN EDITED VERSION OF PYTUBE WITH FEW FIXES
+In no way shape or form, do I own this code.
+This is repository is simply for personal use for easier setup.
+
 ### Actively soliciting contributors!
 
 Have ideas for how pytube can be improved? Feel free to open an issue or a pull request!
